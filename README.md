@@ -75,5 +75,5 @@ Ferramentas Anti-Phishing: Utilizar extensões de navegador e soluções de segu
 
 Monitoramento de Logs: Configurar sistemas de detecção para alertar sobre atividades suspeitas.
 
-Agradecimentos ao professor Cassiano da dio por essa exelente aula.
-https://github.com/cassiano-dio/cibersecurity-desafio-phishing
+Este projeto foi inspirado no desafio do professor Cassiano da DIO.
+🔗 Repositório original: GitHub - https://github.com/cassiano-dio/cibersecurity-desafio-phishing
