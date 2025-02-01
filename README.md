@@ -3,7 +3,7 @@
 
 Este projeto tem como objetivo demonstrar, de forma educativa, como funciona um ataque de phishing e como as técnicas de coleta de credenciais podem ser exploradas por atacantes mal-intencionados. A intenção é auxiliar profissionais e entusiastas de cibersegurança a entenderem a mecânica desses ataques para melhor preveni-los e mitigá-los.
 
-⚠ Aviso Legal: Este projeto deve ser utilizado apenas em ambientes de teste controlados e com permissão explícita. O uso indevido dessas técnicas para fins maliciosos é ilegal e antiético.
+**⚠ Aviso Legal: Este projeto deve ser utilizado apenas em ambientes de teste controlados e com permissão explícita. O uso indevido dessas técnicas para fins maliciosos é ilegal e antiético.**
 
 🎯 Objetivo
 
