@@ -21,8 +21,6 @@ Kali Linux - Distribuição voltada para testes de penetração.
 
 Social-Engineer Toolkit (SET) - Ferramenta para simulação de ataques de engenharia social.
 
-Apache Server - Servidor web para hospedar o site clonado.
-
 🚀 Configurando o Ambiente
 
 1️⃣ Acesso ao Kali Linux
@@ -37,17 +35,28 @@ setoolkit
 
 3️⃣ Selecionar Tipo de Ataque
 
-Escolha a opção Social-Engineering Attacks e, em seguida, Web Site Attack Vectors.
+Escolha a opção Social-engineering attacks.
+
+![image](https://github.com/user-attachments/assets/a6de4aa3-1070-4f06-9084-0a97d77b6d83)
+
+Logo após selecione Web attack vectors.
+
+![image](https://github.com/user-attachments/assets/f4e40fbe-baab-420d-83d6-7661fb2b7c5d)
+
 
 4️⃣ Definir Método de Ataque
 
 Escolha Credential Harvester Attack Method e depois Site Cloner.
+![image](https://github.com/user-attachments/assets/623178d4-d2db-4d51-965a-4bdc772608c0)
+
+![image](https://github.com/user-attachments/assets/fc3fde94-d600-4c75-9a0c-8645e8972f8f)
+
 
 5️⃣ Configurar o Servidor Local
 
 Descubra seu endereço IP local:
-
 ifconfig
+Ou use o Ip que foi apresentado.
 
 Insira o IP da máquina e a URL que deseja clonar (exemplo: Facebook, Gmail, etc.).
 
@@ -64,17 +73,3 @@ Autenticação Multifator (MFA): Impedir que credenciais roubadas sejam suficien
 Ferramentas Anti-Phishing: Utilizar extensões de navegador e soluções de segurança para bloquear ataques.
 
 Monitoramento de Logs: Configurar sistemas de detecção para alertar sobre atividades suspeitas.
-
-🛡️ Considerações Finais
-
-Este projeto é estritamente educacional e não deve ser utilizado para propósitos maliciosos. O entendimento das técnicas ofensivas é essencial para o aprimoramento das defesas em cibersegurança.
-
-Caso tenha interesse em aprender mais sobre segurança ofensiva e defensiva, considere explorar plataformas como:
-
-Hack The Box
-
-TryHackMe
-
-OWASP
-
-📌 Autor: João Victor de Souza Lisboa📌 Propósito: Simulação educacional de phishing e defesa em cibersegurança.
