@@ -47,6 +47,7 @@ Logo após selecione Web attack vectors.
 4️⃣ Definir Método de Ataque
 
 Escolha Credential Harvester Attack Method e depois Site Cloner.
+
 ![image](https://github.com/user-attachments/assets/623178d4-d2db-4d51-965a-4bdc772608c0)
 
 ![image](https://github.com/user-attachments/assets/fc3fde94-d600-4c75-9a0c-8645e8972f8f)
